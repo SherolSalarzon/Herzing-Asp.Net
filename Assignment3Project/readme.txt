@@ -16,3 +16,6 @@ running the application
 -clicking book will force to login, if you have not done so. If you do not have an account there is a
 	Register tab on top and Login, you will see on the top right of the app Hello! then your email.
 - on Book tab you will see all the books in the database, you can edit, delete, see details and add. 
+
+
+github: https://github.com/SherolSalarzon/Herzing-Asp.Net/tree/main/
